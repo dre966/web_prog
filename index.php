@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="./assets/css/index.css">
     <title>Gauntlet</title>
 </head>
+///Testing commit from other users
 <?php
 session_start();
 if(!isset($_SESSION["uid"])){
