@@ -7,6 +7,7 @@
     <title>Gauntlet</title>
 </head>
 ///Testing commit from other users
+///again
 <?php
 session_start();
 if(!isset($_SESSION["uid"])){
